@@ -13,7 +13,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   asdf
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://goossso.github.io" # the base hostname & protocol for your site
+url: "https://koolucy.github.io" # the base hostname & protocol for your site
 # twitter_username: ""
 # github_username: ""
 
